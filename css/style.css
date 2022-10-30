@@ -360,11 +360,11 @@ section{
 }
 
 .js:after{
-  width: 70%;
+  width: 90%;
 }
 
 .php:after{
-  width: 60%;
+  width: 90%;
 }
 
 .mysql:after{
